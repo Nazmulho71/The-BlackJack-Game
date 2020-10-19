@@ -1,5 +1,4 @@
 # The-BlackJack-Game
-This is my first JavaScript game
 
-I love this, man.
-I coded it in pure JavaScript!
+The Black Jack game fully coded in pure JavaScript.
+Just play and enjoy!
